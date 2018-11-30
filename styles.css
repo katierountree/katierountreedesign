@@ -112,7 +112,7 @@ li.name a {
   }
 
   .main a, .main div.hide1, .main div.hide2 {
-      background-color: #333;
+      background-color: #fff;
       flex-grow: 1;
       height: 100%;
       width: 320px;
